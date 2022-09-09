@@ -4,4 +4,4 @@
 echo BND
 echo dnd
 
-echo -e "rador /n redor"
+echo -e "rador\nredor"
