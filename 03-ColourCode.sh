@@ -1,4 +1,4 @@
 #Colour code
 
 
-echo -e "\e[COLOURCODEm Your Text \e[0m"
+echo -e "\e[33m Your Text \e[0m"
