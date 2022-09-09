@@ -4,4 +4,4 @@
 echo BND
 echo dnd
 
-echo "rador/nredor"
+echo -e "rador/nredor"
