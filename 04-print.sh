@@ -14,4 +14,4 @@ Date=03/03/2000
 
 echo "Today's Date" $DATECOMMAND
 
-DATECOMMAND=${date +%f}
+DATECOMMAND=$(date +%f)
