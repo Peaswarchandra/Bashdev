@@ -1,8 +1,8 @@
 #/DEv
 
-a =10 
+a=10 
 
-b =19
+b=19
 
 echo value of a is :$a
 echo ${a}
