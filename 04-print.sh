@@ -12,4 +12,6 @@ echo value of f:$f
 
 Date=03/03/2000
 
-echo "Today's Date" $Date
+echo "Today's Date" $DATECOMMAND
+
+DATECOMMAND=${date +%f}
