@@ -1,3 +1,3 @@
 frontend:
 
-bash1-Frontend.sh
+bash 1-Frontend.sh
