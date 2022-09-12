@@ -1,5 +1,5 @@
  frontend:
-bash 1-Frontend.sh
+ sh 1-Frontend.sh
 
  Mongodb:
-bash 2-Mongodb.sh
+sh 2-Mongodb.sh
